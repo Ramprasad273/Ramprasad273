@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I’m Ram Prasad<br><br>🚀 Lead Data Engineer | Scalable Data Platforms | Distributed Systems<br><br>I’m a Lead Data Engineer with 10+ years of experience designing, building, and scaling high-throughput data platforms and pipelines that power analytics, experimentation, and data-driven decision making at scale.<br><br>I specialize in turning messy, high-volume data into reliable, well-modeled, production-grade datasets used by engineering, product, and business teams.
+Hi, I’m Ram Prasad<br><br>
+I’m a Lead Data Engineer with 14+ years of experience designing, building, and scaling high-throughput data platforms and pipelines that power analytics, experimentation, and data-driven decision making at scale.<br><br>I specialize in turning messy, high-volume data into reliable, well-modeled, production-grade datasets used by engineering, product, and business teams.
 
 
 ## 🌐 Socials:
